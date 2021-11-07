@@ -6,7 +6,7 @@ I choise Microsoft Visual Studio Code be my main C-code edit IDE. In this chepte
 ### 0. Why Use IDE
    Tranditional coding way are text editor and IDE（Integrated Development Environment）, IDE is friendly for newbie because of its Design Environment & Integration Debugging Environment, its convenient plugins make easier than text edit debug mode.  
    #### When use text editor?
-   The shortcoming on IDE is system occupy, I should change to text edit mode when execution speed unacceotable or you want to explore coding process.  
+   The shortcoming on IDE is system occupy, you can change to text edit mode when execution speed unacceotable or you want to explore coding process.  
    On Visual Studio Code, environment usage rate is lower than Visual Studio because VS have advance devlopement tools but VSC not.
    |Software|Visual Studio Code|Visual Studio|
    |:---:|:---|:---|
@@ -22,7 +22,7 @@ I choise Microsoft Visual Studio Code be my main C-code edit IDE. In this chepte
    [Install Link](https://github.com/deans973411/C-code_Practice/blob/main/01-1-MSYS2.md#01-1-msys2)  
 ### 1. Install Visual Studio Code
    Download [Link](https://code.visualstudio.com/) on Visual Studio code official website  
-### 2. Install C-code comiler
+### 2. Install C-code compiler
    MinGW Download [Link](https://sourceforge.net/projects/mingw/files/)  
    
    MinGW is transplant GCC compiler and GNU Binutils to win32 system, produce project which can be executed on windows 32x 64x.  
