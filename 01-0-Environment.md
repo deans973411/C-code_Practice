@@ -1,4 +1,4 @@
-# 01-0-Environment  
+# 01-Environment  
 ####  Dean Lin  
 
 I choise Microsoft Visual Studio Code be my main C-code edit IDE. In this chepter, we install IDE step by step
