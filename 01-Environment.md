@@ -1,4 +1,4 @@
-# 01-Environment  
+# 01-0-Environment  
 ####  Dean Lin  
 
 I choise Microsoft Visual Studio Code be my main C-code edit IDE. In this chepter, we install IDE step by step
@@ -18,7 +18,8 @@ I choise Microsoft Visual Studio Code be my main C-code edit IDE. In this chepte
      
    MSYS2 Download [Link](https://www.msys2.org/)  
    if you change to text edit, you can try MSYS.
-   MSYS is a shell whice build on windows similar Cygwin
+   MSYS is a shell whice build on windows similar Cygwin  
+   [Install Link](https://github.com/deans973411/C-code_Practice/blob/main/01-1-MSYS2.md#01-1-msys2)  
 ### 1. Install Visual Studio Code
    Download [Link](https://code.visualstudio.com/) on Visual Studio code official website  
 ### 2. Install C-code comiler
